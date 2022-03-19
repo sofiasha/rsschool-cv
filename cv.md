@@ -30,6 +30,19 @@ I am currently studying to become a front-end developer. My goal is to gain as m
         else
             return (0);
     }
+## Working experience:
+Training projects:
+
+| Project | Decsription |
+| ------ | ------ |
+| [To-do list](https://github.com/sofiasha/to-do-list) | Vanilla js to-do list example |
+| [ATM_Java](https://github.com/sofiasha/ATM_Java) | Simple ATM imitation |
+| [Libft (C)](https://github.com/sofiasha/libft-upd) | Rewriting standard library functions |
+| [Ft_server](https://github.com/sofiasha/ft_server) | First meeting with Docker |
+## Education
+* RS school student
+* 21 school student
+* JS - https://learn.javascript.ru
 ## Languages
 * English - upper-intermediate
 * Russian - native
